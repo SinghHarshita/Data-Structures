@@ -1,7 +1,4 @@
-//EXPT 3: EXPERIMENT TO STUDY RECURSION. PROGRAMS: BINARY SEARCH AND TOWER OF HANOI
-//EXPT 4: EXPERIMNET TO STUDY QUEUE. PROGRAMS: CIRCULAR QUEUE AND PROIRITY QUEUE
-
-//circular queue
+// Menu Driven Program to implement different operations on Circular Queue
 
 #include<stdio.h>
 #define max 10
