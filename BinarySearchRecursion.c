@@ -1,3 +1,5 @@
+// Program to implement Binary Search using Recursion
+
 #include<stdio.h>
 #define max 10
 
