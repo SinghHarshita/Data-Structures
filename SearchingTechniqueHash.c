@@ -1,3 +1,5 @@
+// Implementation of hashing functions with different collision resolution techniques.
+
 #include<stdio.h>
 #define N 100
 

@@ -1,3 +1,6 @@
+// Menu Driven Program for Quick Sort,
+// Merge sort and Heap Sort.
+
 #include<stdio.h>
 #include<stdlib.h>
 

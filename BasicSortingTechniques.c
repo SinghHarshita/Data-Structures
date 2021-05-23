@@ -1,3 +1,6 @@
+// Menu driven program for Bubble,
+// Insertion and Selection Sort
+
 #include<stdio.h>
 #define N 100
 
