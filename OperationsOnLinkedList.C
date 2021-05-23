@@ -1,3 +1,7 @@
+// Implementation of different operations
+// on singly linked list – copy, concatenate,
+// split, reverse, count no. of nodes
+
 #include<stdio.h>
 #include<stdlib.h>
 
