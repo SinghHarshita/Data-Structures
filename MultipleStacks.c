@@ -1,3 +1,6 @@
+// Program to Implement multiple stack in
+// one array
+
 #include<stdio.h>
 #define max 10
 
