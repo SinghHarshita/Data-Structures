@@ -1,3 +1,5 @@
+// Implementation of Dijkstra’s shortest Path finding algorithm
+
 #include<stdio.h>
 #include<stdlib.h>
 
