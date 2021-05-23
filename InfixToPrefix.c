@@ -1,3 +1,5 @@
+// Program to convert infix to prefix using stack.
+
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
