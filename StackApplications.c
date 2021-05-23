@@ -1,3 +1,6 @@
+// Program to convert Decimal number to
+// Binary and checking balanced parenthesis of
+// expression using stack.
 #include<stdio.h>
 #include<string.h>
 #define max 10
