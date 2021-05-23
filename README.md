@@ -36,3 +36,5 @@ Each folder represents an experiment. The details of experiments are given below
     * Implementation of Dijkstra’s shortest Path finding algorithm.
 
 
+
+**Note** *: All codes are written in C.*
