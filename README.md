@@ -1,4 +1,4 @@
-# Data-Structures
+# Data Structures
 This repository contains programs that were written to understand and learn data structures under Data Strctures Lab.
 Each folder represents an experiment. The details of experiments are given below :
 1. To study stack and different operations on Stack
