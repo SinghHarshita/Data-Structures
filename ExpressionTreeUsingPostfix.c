@@ -1,3 +1,6 @@
+// Implementation of construction of
+// expression tree using postfix expression
+
 #include<stdio.h>
 #include<string.h>
 #include<malloc.h>
